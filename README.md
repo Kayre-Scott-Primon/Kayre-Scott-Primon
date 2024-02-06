@@ -1,8 +1,24 @@
 ### Olá! Eu sou o Kayré Scott Primon ✌🏼
 
 ## Quem sou eu:
+Olá, me chamo Kayré Scott Primon, sou de Franca-SP, mas já morei em Patos de Minas e Uberlândia. 
+Sou formado em Engenharia Eletrônica e de Telecomunicações pela Universidade Federal de Uberlândia (UFU),
+de onde aprendi muito sobre projetos, raciocínio lógico, matemática, programação e a lidar com prazos,
+isso também por conta de um projeto de extensão que fiz, EDROM (Equipe de desenvolvimento de róbotica móvel),
+onde trabalhei com Java Orientado a objeto para automatizar um robo que nós mesmo construimos para uma competição.
+Trabalhei tambem com atendimento ao cliente e prestação de serviço no comercio, de forma não registrada.
+Hoje curso minha primeira, de muitas que virão que ja tenho em mente, pós graduação na USP|ESLAQ,
+MBA em Engeharia de Software (2023-2025). Além disso, tenho cursos como Udemy, pela Cod3r em aplicações react native para IOS e Android,
+e o Ignite da Rocketseat, na trilha de React Native.
+Hoje meu foco é React Native, quanto backend quanto frontend. 
+Tenho pontos fortes como manipulação de mapas, Mapbox e GoogleMap, bancos de dados, SQLite, Realm e AsyncStorage, navegação com React navigation, Redux e Context,
+situações Offline, experiencia do usuário como animações, sons e tateis (vibração do dispositivo), testes com Jest, manipulações com Figma, seguir e aplicar metodologias ágeis com scrum,
+e muitas outras.
+Já faço estudo sobre tecnologias nativas, com o Kotlin.
+Penso que todo é possível, basta entendermos as prioridades e ferramentas que temos. 
+O aprendizado é algo essencial em meu cotidiano, e quero sempre estar cursando cursos e pós graduações.
+ 
 
-...
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayre-primon-226775192/)
 
@@ -35,12 +51,9 @@
 
 ### Cursos e formações
 
-- MBA
-- UFU
-- Udemy
-- Ignite Rocketseat
+- MBA em Engenharia de Software pela USP
+- Engenharia Eletrônica e de Telecomunidações pela UFU
+- Udemy - cursos de React Native
+- Ignite Rocketseat - trilha de React-Native
 
-
-### Finalização 
-...
 
