@@ -35,9 +35,10 @@
 
 ### Cursos e formações
 
-MBA
-UFU
-Udemy
+- MBA
+- UFU
+- Udemy
+- Ignite Rocketseat
 
 
 ### Finalização 
