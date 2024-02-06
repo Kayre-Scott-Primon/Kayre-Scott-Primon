@@ -32,17 +32,15 @@ O aprendizado é algo essencial em meu cotidiano, e quero sempre estar cursando 
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
   <img align="center" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img align="center" alt="Context" src=""/>
   <img align="center" alt="Realm" src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white"/>
   <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img align="center" alt="Google-Maps" src=""/>
-  <img align="center" alt="Mapbox" src=""/>
+  <img align="center" alt="Google-Maps" width="75" height="30" src="https://logosmarcas.net/wp-content/uploads/2022/01/Google-Maps-Logo.png"/>
+  <img align="center" alt="Mapbox" width="75" height="30" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*ok6yuDnTx4o2PSFx.png"/>
   <img align="center" alt="Google Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img align="center" alt="AsyncStorage" src=""/>
-  <img align="center" alt="Figma" src=""/>
-  <img align="center" alt="Scrum" src=""/>
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img align="center" alt="Scrum" width="75" height="30" src="https://fusiontecnologia.com/wp-content/uploads/2023/01/O-que-e-o-Scrum-e-como-aplicar.png"/>
 </div>
 
 <br/>
