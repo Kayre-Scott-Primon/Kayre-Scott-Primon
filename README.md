@@ -9,7 +9,7 @@ Olá, me chamo Kayré Scott Primon.
   
 - Trabalhei tambem com atendimento ao cliente e prestação de serviço no comercio, de forma não registrada.
 
-- Hoje curso minha primeira, de muitas que virão que ja tenho em mente, pós graduação na USP|ESLAQ,
+- Hoje curso minha primeira, de muitas que virão que ja tenho em mente, pós graduação na USP|ESALQ,
 MBA em Engeharia de Software (2023-2025).
 - Além disso, tenho cursos como
   - Udemy, pela Cod3r em aplicações react native para IOS e Android,
