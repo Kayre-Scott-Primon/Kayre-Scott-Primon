@@ -15,7 +15,7 @@ MBA em Engeharia de Software (2023-2025).
   - Udemy, pela Cod3r em aplicações react native para IOS e Android,
   - Ignite da Rocketseat, na trilha de React Native.
  
-Hoje meu foco é React Native, quanto backend quanto frontend. 
+Hoje meu foco é React Native e Web, quanto backend quanto frontend. 
 
 - Tenho pontos fortes como manipulação de mapas, Mapbox e GoogleMap, bancos de dados, SQLite, Realm e AsyncStorage, navegação com React navigation, Redux e Context,
 situações Offline, experiencia do usuário como animações, sons e tateis (vibração do dispositivo), testes com Jest, manipulações com Figma, seguir e aplicar metodologias ágeis com scrum,
@@ -49,6 +49,8 @@ O aprendizado é algo essencial em meu cotidiano, e quero sempre estar cursando 
   <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img align="center" alt="Scrum" width="75" height="30" src="https://fusiontecnologia.com/wp-content/uploads/2023/01/O-que-e-o-Scrum-e-como-aplicar.png"/>
+  <img align="center" alt="Scrum" width="75" height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img align="center" alt="Scrum" width="75" height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </div>
 
 <br/>
