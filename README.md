@@ -36,6 +36,7 @@ O aprendizado é algo essencial em meu cotidiano, e quero sempre estar cursando 
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="React-Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img align="center" alt="Scrum" width="75" height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img align="center" alt="Typescipt" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
@@ -50,7 +51,6 @@ O aprendizado é algo essencial em meu cotidiano, e quero sempre estar cursando 
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img align="center" alt="Scrum" width="75" height="30" src="https://fusiontecnologia.com/wp-content/uploads/2023/01/O-que-e-o-Scrum-e-como-aplicar.png"/>
   <img align="center" alt="Scrum" width="75" height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img align="center" alt="Scrum" width="75" height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </div>
 
 <br/>
